@@ -1,3 +1,4 @@
+alert("use VPN");
 const panles = document.querySelectorAll('.panel');
 panles.forEach((panel) => {
     panel.addEventListener('click', () => {
